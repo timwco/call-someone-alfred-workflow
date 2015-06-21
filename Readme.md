@@ -4,6 +4,8 @@ This is a simple Alfred workflow that will allow you to call any phone number fr
 
 Simple use the `call` keyword and then send a phone number in as an argument.
 
+![screenshot](screenshot.png)
+
 > Note: Requires Yosemite and an iPhone
 
 
