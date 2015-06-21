@@ -2,7 +2,7 @@
 
 This is a simple Alfred workflow that will allow you to call any phone number from your computer.
 
-Simple use the `call` keyword and then send a phone number in as an argument.
+Simply use the `call` keyword and then send a phone number in as an argument.
 
 ![screenshot](screenshot.png)
 
